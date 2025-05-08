@@ -1,0 +1,13 @@
+
+int counter = 0;
+float salary_bonus;
+int another_value;
+
+salary_bonus = 500.75;
+another_value = (counter + 10) * 2;
+
+do {
+    counter = counter + 1;
+} while (counter < 10);
+
+// End of program
